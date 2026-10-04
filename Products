@@ -1,0 +1,9 @@
+## Product comparison
+
+| Product | Main purpose | Platform | Best suited for | Main strengths | Limitations |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Viewer** | WSI viewing and analysis | Windows | Individual users and labs | Broad format support, annotations, measurements, fluorescence tools | Windows-focused, slightly dated interface |
+| **Cloud** | Online slide viewing and sharing | Web browser | Remote collaboration | Easy access, sharing, no local server required | Dependent on internet and cloud storage |
+| **Desk** | Local network slide sharing | Windows | Small teams | Simple setup, uses existing storage | Depends on logged-in workstation |
+| **Group** | Managed network sharing | Windows | Windows-based departments | User permissions, ADFS integration, service-based access | More Microsoft-dependent, still workstation-oriented |
+| **Server** | Central WSI management | Windows Server / Web | Larger organizations | Permissions, audit trail, SSO, collaboration, browser access | More complex to deploy and administer |
